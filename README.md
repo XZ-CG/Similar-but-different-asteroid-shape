@@ -1,0 +1,1 @@
+This is the result of the procedural asteroid which are related to the asteroid generation paper.
